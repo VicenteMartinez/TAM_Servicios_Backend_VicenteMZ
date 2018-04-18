@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "834655489102",
+    "firebase_url": "https://fir-registrationlogin-7716c.firebaseio.com",
+    "project_id": "fir-registrationlogin-7716c",
+    "storage_bucket": "fir-registrationlogin-7716c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834655489102:android:edcf1ed19783451f",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tam_servicios_backend_vicentemz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834655489102-cono3rv63au9ne1lj741o90vhhr7r3j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOYPPZP_HC45rLft1TyJO-qYknvx_XoJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
